@@ -1,4 +1,4 @@
-# 2015-2016 Coursera Data Science Specialization
+# 2015-2016 R-Programming
 
 Shatian Wang
 
